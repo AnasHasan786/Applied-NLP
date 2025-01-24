@@ -84,7 +84,7 @@ After training, the model is capable of generating text sequences based on the p
 
 **Note: The quality of the generated text depends on the size and quality of the dataset.**
 
-## **⚠️ Model Performance and Data Quality**
+## **Model Performance and Data Quality**
 
 The current model is trained on a dataset that was created by merging 10 CSV files together. While this approach allowed for a diverse set of examples, it may have led to inconsistencies or noise in the data that impacted the performance of the model. As a result, the text generation output might not be as accurate or coherent as expected.
 
