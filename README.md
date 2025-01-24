@@ -1,7 +1,7 @@
 # **🌟 Applied NLP Projects**
 
 <p align="justify">
-  Welcome to the **Applied NLP** repository, dedicated to showcasing various Natural Language Processing (NLP) projects and experiments. 
+  Welcome to the <strong>Applied NLP</strong> repository, dedicated to showcasing various Natural Language Processing (NLP) projects and experiments. 
   Each project explores solving real-world challenges using NLP techniques such as text classification, sentiment analysis, and text generation. Whether it's spam detection, fake news classification, or other fascinating NLP applications, this repository serves as a comprehensive guide to my NLP journey.
 </p>
 
