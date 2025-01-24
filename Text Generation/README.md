@@ -84,6 +84,16 @@ After training, the model is capable of generating text sequences based on the p
 
 **Note: The quality of the generated text depends on the size and quality of the dataset.**
 
+## **⚠️ Model Performance and Data Quality**
+
+The current model is trained on a dataset that was created by merging 10 CSV files together. While this approach allowed for a diverse set of examples, it may have led to inconsistencies or noise in the data that impacted the performance of the model. As a result, the text generation output might not be as accurate or coherent as expected.
+
+We are currently working on refining the dataset and improving the model's performance. Future improvements will involve:
+
+- Cleaning and preprocessing the merged dataset.
+- Exploring other dataset combinations or more balanced sources.
+- Fine-tuning the RNN model with optimized hyperparameters.
+
 ## **Conclusion**
 
 This project showcases the potential of RNNs in generating coherent text sequences by learning patterns in character-level text data. The approach can be extended to larger datasets or fine-tuned for specific applications like story generation, chatbots, or automated text completion.
