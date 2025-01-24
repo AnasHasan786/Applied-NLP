@@ -15,8 +15,6 @@
   - [Text Generation using RNN](#text-generation-using-rnn)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [Requirements](#requirements)
 
 ---
 
@@ -64,22 +62,6 @@ To clone and set up this repository locally, follow the steps below:
 git clone https://github.com/AnasHasan786/Applied-NLP.git
 cd Applied-NLP
 ```
-
-### **Usage**
-
-After installing the dependencies, you can run the respective project scripts:
-
-- **Spam Ham Classification:** Run spam_ham_classifier.py to train and test the model for spam email classification.
-- **Text Generation using RNN:** Run text_generation_rnn.py to train the RNN for generating text.
-
-Before running the scripts, make sure you've installed all necessary dependencies listed in the requirements.txt.
-
-### **Requirements**
-
-To install the required dependencies, run:
-
-```bash
-pip install -r requirements.txt
-```
+---
 
 Thanks for exploring this repository.
